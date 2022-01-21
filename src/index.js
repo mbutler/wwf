@@ -14,3 +14,11 @@ export function findMoves(attackerPosition, defenderPosition, params) {
 
     return result
 }
+
+export function isLegal(move) {
+    let legal = true
+    if (move.Legal === "N") {
+        legal = false
+    }
+    return legal
+}
