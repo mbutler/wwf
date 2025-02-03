@@ -3,7 +3,7 @@ const movementChart = {
   "Ring Corner": [3, 5, 2, 4, 17, 18, 4, 5, 19, 9],
   "Apron": [5, 2, 0, 2, 15, 15, 5, 3, 16, 7],
   "Ringside": [7, 4, 2, 0, 13, 12, 4, 3, 13, 5],
-  "Lock Room": [20, 17, 15, 13, 0, 6, 6, 14, 7, 8],
+  "Locker Room": [20, 17, 15, 13, 0, 6, 6, 14, 7, 8],
   "Interview Area": [20, 18, 15, 12, 6, 0, 7, 16, 9, 8],
   "Crowd": [10, 4, 5, 4, 6, 6, 0, 4, 8, 4],
   "Floor Corner": [6, 5, 3, 3, 14, 16, 4, 9, 17, 6],
@@ -32,6 +32,6 @@ function getMovementPoints(from, to) {
 
 // Example usage
 console.log(getMovementPoints("MOR", "Ring Corner")) // Output: 3
-console.log(getMovementPoints("Apron", "Lock Room")) // Output: 15
+console.log(getMovementPoints("Apron", "Locker Room")) // Output: 15
 console.log(getMovementPoints("Crowd", "Special Interview")) // Output: 8
 console.log(getMovementPoints("Invalid", "Runway")) // Output: null (error message logged)
