@@ -1,0 +1,114 @@
+{
+  "WrestlerSheet": {
+    "WrestlerDetails": {
+      "Name": "",
+      "From": "",
+      "Sex": "",
+      "Height": "",
+      "Weight": "",
+      "Age": "",
+      "Hair": "",
+      "Eyes": "",
+      "Build": "",
+      "Handedness": "",
+      "DebutDate": "",
+      "PlayerName": ""
+    },
+    "Attributes": {
+      "BruteStrength": {
+        "I": 0,
+        "II": 0,
+        "III": 0,
+        "IV": 0
+      },
+      "TechnicalAbility": {
+        "I": 0,
+        "II": 0,
+        "III": 0,
+        "IV": 0
+      },
+      "Brawling": {
+        "I": 0,
+        "II": 0,
+        "III": 0,
+        "IV": 0
+      },
+      "MartialArts": {
+        "I": 0,
+        "II": 0,
+        "III": 0,
+        "IV": 0
+      },
+      "AerialTactics": {
+        "I": 0,
+        "II": 0,
+        "III": 0,
+        "IV": 0
+      },
+      "Perception": {
+        "I": 0,
+        "II": 0,
+        "III": 0,
+        "IV": 0
+      },
+      "Stamina": {
+        "I": 0,
+        "II": 0,
+        "III": 0,
+        "IV": 0
+      },
+      "Constitution": {
+        "I": 0,
+        "II": 0,
+        "III": 0,
+        "IV": 0
+      },
+      "BusinessSkill": {
+        "I": 0,
+        "II": 0,
+        "III": 0,
+        "IV": 0
+      }
+    },
+    "DerivedStats": {
+      "PowerBonus": 0,
+      "MovementRate": 0,
+      "Recovery": 0,
+      "StunPoints": 0
+    },
+    "MaxModifiers": {
+      "AerialTactics": 0,
+      "Lift": 0,
+      "Stamina": 0,
+      "Stun": 0
+    },
+    "FinishingManeuver": {
+      "Name": "",
+      "Stand": "",
+      "Kneel": "",
+      "Prone": "",
+      "Fly": "",
+      "Run": "",
+      "Level": "",
+      "Legal": "",
+      "Weight": "",
+      "Type": "",
+      "WP": "",
+      "OP": "",
+      "StunD6": "",
+      "Plus": ""
+    },
+    "Money": 0,
+    "FanView": "",
+    "FanSupport": "",
+    "Advantages": [],
+    "Disadvantages": [],
+    "AccessoryItem": {
+      "Hit": "",
+      "Use": "",
+      "Choke": "",
+      "Hide": "",
+      "Cost": ""
+    }
+  }
+}
